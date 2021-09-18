@@ -1,0 +1,28 @@
+{
+  "kind": "column",
+  "name": "EXIF",
+  "description": "EXIF",
+  "author": "Manu.n",
+  "params": [
+    {
+      "name": "url",
+      "displayName": "url",
+      "type": "string"
+    },
+    {
+      "name": "token",
+      "displayName": "token",
+      "type": "string"
+    },
+    {
+      "name": "update",
+      "displayName": "update",
+      "type": "string"
+    }
+    
+  ],
+  "result": {
+      "type": "string"
+      
+  }
+}
